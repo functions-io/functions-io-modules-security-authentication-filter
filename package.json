@@ -1,6 +1,6 @@
 {
-  "name": "@functions-io-modules/security.token.validate",
-  "version": "1.0.1",
+  "name": "@functions-io-modules/security.authentication.filter",
+  "version": "1.0.0",
   "description": "token validate",
   "category": "test",
   "public": true,
